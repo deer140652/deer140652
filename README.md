@@ -35,14 +35,14 @@
 ## 📁 Projects
 - **[Smart Racket IMU System](https://github.com/deer140652/smart-racket-imu-system)**  
   感測器資料收集、BLE 即時傳輸、Firestore 批次上傳與 CNN 模型推論。  
-  （Flutter App + BLE + Firestore + TFLite）
+  （Flutter App + BLE + Firestore + TFLite）  
 
 - **[Excel VBA Sales Management Demo](https://github.com/deer140652/excel-vba-sales-management-demo)**  
-  示範銷售管理功能的 Excel VBA 專案，包含折扣計算、排名與自動化處理等功能。
+  示範銷售管理功能的 Excel VBA 專案，包含折扣計算、排名與自動化處理等功能。  
 
 - **[Auto Image Downloader](https://github.com/deer140652/auto-image-downloader)**  
-  自動擷取網頁圖片網址並批次下載的 Windows Forms 工具，支援網址擷取、文字解析與圖片連結清單下載。
-  （C# WinForms + Regex + WebClient）
+  自動擷取網頁圖片網址並批次下載的 Windows Forms 工具，支援網址擷取、文字解析與圖片連結清單下載。  
+  （C# WinForms + Regex + WebClient）  
 
 更多內容可參考本帳號中的各個 Repositories。
 
