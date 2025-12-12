@@ -11,7 +11,7 @@
 - C#（Windows Forms UI 與後端功能開發）
 - Python（資料處理、基礎模型訓練）
 - Dart（Flutter App、BLE 資料接收）
-- Arduino C / C++（感測器韌體基礎）
+- Arduino C / C++（感測器韌體）
 
 ### 🔹 資料庫
 - MS SQL（T-SQL、Stored Procedure、備份/還原、權限管理）
